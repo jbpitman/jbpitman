@@ -1,4 +1,6 @@
 - ![ComeBabyGIF](https://user-images.githubusercontent.com/100542117/156946063-6846c9b8-e3cc-4c48-b326-21290456169d.gif)
+
+
 👋 Hi, I’m @jbpitman
 - 👀 I’m interested in Data Visualization
 - 🌱 I’m currently learning How to use Git
